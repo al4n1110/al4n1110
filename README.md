@@ -12,7 +12,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h1>Sobre mi</h1> 
+<h1>Sobre mi</h1>
 - 🔧 Intento superarme cada dia <br>
 - 💡 Soy curioso en aprender<br>
 - 📖 Actualmente me estoy enfocando en la parte Frontend<br>
