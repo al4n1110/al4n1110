@@ -16,7 +16,7 @@
 - 🔧 Intento superarme cada dia <br>
 - 💡 Soy curioso en aprender<br>
 - 📖 Actualmente me estoy enfocando en la parte Frontend<br>
-- ❄️ Estoy creando proyectos para aprender mas
+- ❄️ Creando proyectos...
 <br>
 <img align="left" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
